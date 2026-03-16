@@ -46,6 +46,12 @@ https://store.steampowered.com/app/504210/SHENZHEN_IO/
 Um dos melhores jogos sobre coding, elogiado por muitos programadores pelo seu realismo e dificuldade, é um jogo bem avançado que mistura programação e engenharia eletrônica!
 
 
+### Baba Is You
+https://store.steampowered.com/app/736260/Baba_Is_You/
+
+Nesse quebra-cabeças você manipula as palavras para mudar as regras do jogo, enquanto não ensina como programar, é um jogo onde você precisa pensar como um programador!
+
+
 ---
 
 ## 💡 Por que jogos?
