@@ -31,11 +31,12 @@ Esse jogo GRATUITO ensina você a escrever scripts em JavaScript, diferente de o
 ### while True: learn()
 https://store.steampowered.com/app/619150/while_True_learn/
 
-um jogo que tecnicamente não ensina programação, mas é uma boa introdução a conceitos de lógica e machine learning.
+Uum jogo que tecnicamente não ensina programação, mas é uma boa introdução a conceitos de lógica e machine learning.
 
 
 ### MainFrames
 https://store.steampowered.com/app/1521360/MainFrames/
+
 Assim como o anterior, esse jogo também funciona mais como um quebra-cabeças conceitual, é mais voltado para lógica sequencial, resolução de problemas e pensamento computacional.
 
 
