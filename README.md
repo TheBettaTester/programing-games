@@ -11,7 +11,7 @@ Esses jogos podem servir como uma introdução divertida ao mundo da programaç�
 ## Games 🎮
 
 ### Human Resource Machine
-https://store.steampowered.com/app/375820/Human_Resource_Machine/
+🔗 https://store.steampowered.com/app/375820/Human_Resource_Machine/
 
 Um quebra-cabeças aonde você trabalho em um escritório, você deve criar programas para resolver os problemas e impedir as máquinas de roubarem o seu emprego!
 
@@ -52,17 +52,33 @@ https://store.steampowered.com/app/736260/Baba_Is_You/
 Nesse quebra-cabeças você manipula as palavras para mudar as regras do jogo, enquanto não ensina como programar, é um jogo onde você precisa pensar como um programador!
 
 
+### TIS-100
+https://store.steampowered.com/app/370360/TIS100/
+
+Outro jogo desenvolvido pelo mesmo criador de SHENZHEN I/O, esse é o Dark Souls de jogos de programação, se você está a procura de algo bem desafiador, aí está o seu jogo.
+
+
+### The Farmer Was Replaced
+https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/
+
+Um excelente jogo para iniciantes em programaçãp, você deve escrever códigos para controlar robôs responsáveis por cuidar de uma fazenda, a linguagem utilizada para essa automação é inspirada em Python!
+
+
+### Factorio
+https://store.steampowered.com/app/427520/Factorio/
+
+ATENÇÃO! JOGO EXTREMAMENTE VICIANTE! JOGUE-O POR SUA CONTA E RISCO!
+
+Um dos melhores jogos de automação e estratégia, não ensina programação diretamente, mas na opnião de muitos programadores, é um jogo que faz você pensar como um desenvolvedor!
+
 ---
 
-## 💡 Por que jogos?
+##  Por que devo dar uma chance a jogos? 💡
 
-Jogos podem tornar o aprendizado de programação mais acessível e divertido.  
-Eles ajudam a desenvolver:
+Jogos tornam o processo de aprendizagem mais divertido, sem falar que quando você está tão imersido em um jogo, nem parece que você está aprendendo algo, mas isso está completamente errado, sem perceber, você está aprendendo muito sobre as mecanicas do jogo, principalmente em jogos como estes, você estara aprendendo sobre resolucao de problemas.  
 
-- lógica de programação  
-- resolução de problemas  
-- pensamento computacional  
+Jogos ajudam a gente a desestressar e tornam o aprendizado mais acessivel
 
 ---
 
-⭐ Se você gostou do projeto, considere dar uma estrela no repositório!
+Muito obrigada pela sua atenção! ❤️
