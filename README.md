@@ -38,6 +38,13 @@ um jogo que tecnicamente não ensina programação, mas é uma boa introdução 
 https://store.steampowered.com/app/1521360/MainFrames/
 Assim como o anterior, esse jogo também funciona mais como um quebra-cabeças conceitual, é mais voltado para lógica sequencial, resolução de problemas e pensamento computacional.
 
+
+### SHENZHEN I/O
+https://store.steampowered.com/app/504210/SHENZHEN_IO/
+
+Um dos melhores jogos sobre coding, elogiado por muitos programadores pelo seu realismo e dificuldade, é um jogo bem avançado que mistura programação e engenharia eletrônica!
+
+
 ---
 
 ## 💡 Por que jogos?
