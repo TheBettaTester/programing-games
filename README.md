@@ -13,7 +13,7 @@ Esses jogos podem servir como uma introdução divertida ao mundo da programaç�
 ### Human Resource Machine
 https://store.steampowered.com/app/375820/Human_Resource_Machine/
 
-Um jogo de puzzle onde você programa pequenos "funcionários de escritório" usando lógica e comandos simples para resolver tarefas.
+Um quebra-cabeças aonde você trabalho em um escritório, você deve criar programas para resolver os problemas e impedir as máquinas de roubarem o seu emprego!
 
 ### 7 Billion Humans
 Sequência de Human Resource Machine. Aqui você programa vários trabalhadores ao mesmo tempo usando conceitos mais avançados de lógica.
