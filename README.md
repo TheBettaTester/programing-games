@@ -67,7 +67,7 @@ Um excelente jogo para iniciantes em programação. Nele você deve escrever có
 ### Factorio
 🔗 https://store.steampowered.com/app/427520/Factorio/
 
-⚠️ ATENÇÃO! JOGO EXTREMAMENTE VICIANTE! JOGUE POR SUA CONTA E RISCO!
+⚠️ ATENÇÃO! JOGO EXTREMAMENTE VICIANTE! JOGUE POR SUA CONTA E RISCO! ⚠️
 
 Um dos melhores jogos de automação e estratégia já feitos. Ele não ensina programação diretamente, mas na opinião de muitos programadores, é um jogo que faz você pensar como um desenvolvedor.
 
