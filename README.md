@@ -16,13 +16,23 @@ https://store.steampowered.com/app/375820/Human_Resource_Machine/
 Um quebra-cabeças aonde você trabalho em um escritório, você deve criar programas para resolver os problemas e impedir as máquinas de roubarem o seu emprego!
 
 ### 7 Billion Humans
-Sequência de Human Resource Machine. Aqui você programa vários trabalhadores ao mesmo tempo usando conceitos mais avançados de lógica.
+https://store.steampowered.com/app/792100/7_Billion_Humans/
 
-### CodeCombat
-Um RPG onde você aprende programação escrevendo código real para controlar seu personagem.
+A continuação de Human Resource Machine, você deve automatizar seus funcionários para resolverem todos os problemas, se você gostou do anterior, vai adorar esse!
 
-### Lightbot
-Um jogo de puzzles focado em lógica de programação, loops e funções.
+### Bitburner
+https://store.steampowered.com/app/1812820/Bitburner/
+
+Esse jogo GRATUITO ensina você a escrever scripts em JavaScript, diferente de outros jogos, nesse você realmente precisa escrever o código para jogar!
+
+### while True: learn()
+https://store.steampowered.com/app/619150/while_True_learn/
+
+um jogo que tecnicamente não ensina programação, mas é uma boa introdução a conceitos de lógica e machine learning.
+
+### MainFrames
+https://store.steampowered.com/app/1521360/MainFrames/
+Assim como o anterior, esse jogo também funciona mais como um quebra-cabeças conceitual, é mais voltado para lógica sequencial, resolução de problemas e pensamento computacional.
 
 ---
 
